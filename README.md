@@ -1,11 +1,4 @@
-fsfdhh b 
-
-gdsfg 
-
-gfd df d
-
-dsgf dg df 
- fg
-
 # SoloLearn
+## my first repository
+
 Codes written in commuter trains for SL
